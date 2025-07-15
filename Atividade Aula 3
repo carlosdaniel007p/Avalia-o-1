@@ -42,7 +42,29 @@ public class SistemaEscolar {
     }
 }
 
+agora a resposta das perguntas:
 
+1. nomeAluno – nome completo do aluno.
+
+
+2. idade – idade do aluno.
+
+
+3. altura – altura em metros.
+
+
+4. matriculado – se está matriculado ou não.
+
+5. nomeEscola – para registrar a escola onde o aluno está matriculado.
+
+
+segunda pergunta 
+
+nomeAluno	String	Armazena o nome completo como texto.
+idade	int	Idade é representada por número inteiro.
+altura	double	Altura pode ter casas decimais ex: 1.75 m
+matriculado	boolean	Indica se o aluno está matriculado true ou false
+nomeEscola	String	Texto com o nome da instituição de ensino.
 
 
 Agora vamos pra segunda questão que e sobre 
