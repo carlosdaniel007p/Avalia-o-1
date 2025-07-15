@@ -69,3 +69,40 @@ public class ConversorTemperatura {
         input.close();
     }
 }
+
+resposta:
+
+1. nomeProduto – nome do produto.
+
+
+2. quantidadeEstoque – quantidade em estoque.
+
+
+3. precoUnitario – preço unitário do produto.
+
+
+4. disponivelParaVenda – se o produto está disponível para venda.
+
+
+
+5. categoriaProduto – para indicar o tipo ou categoria do produto (ex: "Eletrônico", "Alimento").
+
+segunda pergunta
+
+nomeProduto	String	Armazena o nome em forma de texto.
+quantidadeEstoque	int	Representa a quantidade como número inteiro.
+precoUnitario	double	Para valores com casas decimais ex: R$ 29.99
+disponivelParaVenda	boolean	Indica se está ou não disponível para venda true/false.
+categoriaProduto	String	Classifica o produto com uma categoria textual.
+
+
+Agora a última questão que e sobre 
+Criar um codigo para o evento e respondendo as perguntas
+poderia ser 
+
+String nomeEvento;
+int quantidadeParticipantes;
+double precoIngresso;
+boolean eventoPresencial;
+
+assim escolhendo essas variáveis.
